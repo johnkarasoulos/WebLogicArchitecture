@@ -2,7 +2,7 @@
 
 ## Context
 
-For 15 years, this financial services application has been deployed as dedicated hardware in each of 30 client office locations, each running its own Oracle Database and WebLogic instance. The move to a SaaS offering means consolidating 30 separate deployments onto Oracle Cloud Infrastructure (OCI) without inheriting the operational cost of 30 standalone stacks, while still meeting the isolation requirements some financial services clients will have.
+For may years, financial services application has been deployed as dedicated hardware in each of the varius client office locations, each running its own Oracle Database and WebLogic instance. The move to a SaaS offering means consolidating all the separate deployments onto Oracle Cloud Infrastructure (OCI) tenancy without inheriting the operational cost of all the standalone stacks, while still meeting the isolation requirements some financial services clients will have.
 
 This article sketches a target architecture and the design decisions behind it.
 
